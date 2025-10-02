@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053277391251",
+    "project_id": "hairstylerappfirebase",
+    "storage_bucket": "hairstylerappfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053277391251:android:a11388f26f073d5447c066",
+        "android_client_info": {
+          "package_name": "com.example.hairstyler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBCzibHaTnZrl8ssJ-KLw1f8OIZOcBbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
