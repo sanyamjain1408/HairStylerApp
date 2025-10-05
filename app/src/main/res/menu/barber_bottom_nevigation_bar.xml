@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_pending"
+        android:icon="@drawable/pending"
+        android:title="Pending" />
+    <item
+        android:id="@+id/tab_status"
+        android:icon="@drawable/status"
+        android:title="Status" />
+    <item
+        android:id="@+id/tab_profile"
+        android:icon="@drawable/profileicon"
+        android:title="Profile" />
+</menu>

@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HairStyler">
         <activity
+            android:name=".BarberProfilePageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BarberStatusPageActivity"
+            android:exported="false" />
+        <activity
             android:name=".CustomerLoginActivity"
             android:exported="false" />
         <activity
@@ -25,7 +31,7 @@
         </activity>
         <activity
             android:name=".StartpageActivity"
-            android:exported="false"></activity>
+            android:exported="false" />
         <activity
             android:name=".CustomerHomeActivity"
             android:exported="false" />
